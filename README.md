@@ -12,7 +12,7 @@ Site Responsivo de Carros para treinar um pouco de HTML, CSS e JS, e colocar em 
 
 - VS CODE
 
-# Executação do Projeto:
+# Execução:
 
 - Para rodar o projeto foi utilizada a extensão live server do VS CODE, basta instalar e clicar no botão "Go Live" que automticamente ele será executado.
 
